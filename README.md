@@ -14,4 +14,4 @@ Aqui postarei os códigos que estou aprendendo, exercícios e projetos.
 
 📫 Meu email pessoal: jonataspierre@gmail.com  
 
-Sou apaixonado por escrever e jogar e agora estou estudando para unir as duas coisas desenvolvendo jogos!
+Sou apaixonado por escrever e jogar, agora estou estudando para unir as duas coisas desenvolvendo jogos!
