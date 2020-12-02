@@ -3,6 +3,7 @@
 Aqui postarei os códigos que estou aprendendo, exercícios e projetos.
 
 🔭 Atualmente trabalho para InfoPoint Software como analista de teste de software.  
+
 🌱 Estou estudando desenvolvimento de jogos e aprendendo:  
 * C++  
 * C#  
