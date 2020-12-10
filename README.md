@@ -4,14 +4,16 @@ Aqui postarei os códigos que estou aprendendo, exercícios e projetos.
 
 🔭 Atualmente trabalho para InfoPoint Software como analista de teste de software.  
 
-🌱 Estou estudando desenvolvimento de jogos e aprendendo:  
+🌱 Estou estudando desenvolvimento de jogos e desenvolvimento web:  
 * C++  
 * C#  
 * Unity  
 * Unreal  
 * Design Gráfico  
-* Python (em breve)  
+* Node js
+* React
+* Python (em breve
 
 📫 Meu email pessoal: jonataspierre@gmail.com  
 
-Sou apaixonado por escrever e jogar, agora estou estudando para unir as duas coisas desenvolvendo jogos!
+Sou apaixonado por música e amo escrever!
