@@ -10,6 +10,7 @@ Aqui postarei os códigos que estou aprendendo, exercícios e projetos.
 * Unity  
 * Unreal  
 * Design Gráfico  
+* JavaScript
 * Node.js
 * React
 * Python (em breve)
