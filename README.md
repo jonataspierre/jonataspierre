@@ -1,23 +1,19 @@
-### Olá bem vindo(a) ao meu repositório 👋
+### Hello welcome to my repository 👋
 
-Aqui postarei os códigos que estou aprendendo, exercícios e projetos.
+Here I'll post the codes I'm learning, exercises and projects.
 
-🔭 Atualmente trabalho para InfoPoint Software como analista de teste de software.  
+🔭 I currently work for InfoPoint Software as a Software Test Analyst.
 
-🌱 Estou estudando desenvolvimento de jogos e desenvolvimento web:  
+🌱 Estou estudando desenvolvimento de jogos:  
 * C++  
 * C#  
 * Unity  
 * Unreal  
-* Design Gráfico  
-* JavaScript
-* Node.js
-* React
-* Python (em breve)
+* Design 2D/3D
 
-📫 Meu email pessoal: jonataspierre@gmail.com  
+📫 Email: jonataspierre@gmail.com  
 
-Sou apaixonado por música e amo escrever!
+I'm passionate about music and I love writing!
 
 ### Connect with me:
 
