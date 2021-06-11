@@ -4,7 +4,7 @@ Here I'll post the codes I'm learning, exercises and projects.
 
 🔭 I currently work for InfoPoint Software as a Software Test Analyst.
 
-🌱 Estou estudando desenvolvimento de jogos:  
+🌱 I'm studying game development: 
 * C#
 * Unity
 * C++  
