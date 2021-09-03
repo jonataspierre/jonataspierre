@@ -49,4 +49,4 @@ I'm passionate about music and I love writing!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspierre&layout=compact&hide=html" /></p>
 
 [instagram]: https://www.instagram.com/jonatas.pierre
-[linkedin]: https://www.linkedin.com/in/jonataspierre/
+[linkedin]: https://www.linkedin.com/in/jonataspierre/?locale=en_US
