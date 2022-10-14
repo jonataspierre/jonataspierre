@@ -43,7 +43,7 @@ I'm passionate about music and I love writing!
 ---
 
 <h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=jonataspierre;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jonataspierre&theme=dark&show_icons=true" alt="GitHub Stats"></p>
 
 <h1>GitHub Languages</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonataspierre&layout=compact&hide=html" /></p>
